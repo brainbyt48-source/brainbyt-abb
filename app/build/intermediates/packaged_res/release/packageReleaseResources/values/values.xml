@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enableNotification">true</bool>
+    <bool name="enableSiteSettingsShortcut">true</bool>
+    <color name="backgroundColor">#0B1220</color>
+    <color name="colorPrimary">#0B1220</color>
+    <color name="colorPrimaryDark">#0B1220</color>
+    <color name="navigationColor">#0B1220</color>
+    <color name="navigationColorDark">#0B1220</color>
+    <color name="navigationDividerColor">#0B1220</color>
+    <color name="navigationDividerColorDark">#0B1220</color>
+    <color name="shortcut_background">#F5F5F5</color>
+    <integer name="splashScreenFadeOutDuration">300</integer>
+    <string name="appName" translatable="false">BrainByt</string>
+    <string name="assetStatements">
+    [{
+        \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+        \"target\": {
+            \"namespace\": \"web\",
+            \"site\": \"https://brainbyt.in\"
+        }
+    }]
+    
+  </string>
+    <string name="fallbackType" translatable="false">customtabs</string>
+    <string name="fullScopeUrl" translatable="false">https://brainbyt.in/</string>
+    <string name="generatorApp" translatable="false">PWABuilder</string>
+    <string name="hostName" translatable="false">brainbyt.in</string>
+    <string name="launchUrl" translatable="false">https://brainbyt.in/</string>
+    <string name="launcherName" translatable="false">BrainByt</string>
+    <string name="orientation" translatable="false">portrait-primary</string>
+    <string name="providerAuthority" translatable="false">in.brainbyt.twa.fileprovider</string>
+    <string name="shortcut_name_0" translatable="false">Quick Quiz</string>
+    <string name="shortcut_name_1" translatable="false">Biography Hub</string>
+    <string name="shortcut_name_2" translatable="false">Paheli Zone</string>
+    <string name="shortcut_name_3" translatable="false">Leaderboard</string>
+    <string name="shortcut_short_name_0" translatable="false">Quiz</string>
+    <string name="shortcut_short_name_1" translatable="false">Biography</string>
+    <string name="shortcut_short_name_2" translatable="false">Paheli</string>
+    <string name="shortcut_short_name_3" translatable="false">Ranks</string>
+    <string name="webManifestUrl" translatable="false">https://brainbyt.in/manifest.json</string>
+</resources>

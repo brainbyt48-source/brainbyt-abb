@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "in.brainbyt.twa",
+        "sha256_cert_fingerprints": ["60:F4:AF:FA:5B:CD:CC:C6:CA:D8:6F:D7:46:E3:A4:83:C7:83:08:AF:99:C4:E6:65:11:50:2F:91:62:D3:11:CF"]
+      }
+    }]
